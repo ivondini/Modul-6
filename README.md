@@ -3,7 +3,7 @@
 # Rock-Paper-Scissors Simple Prediction App
 
 
-<img src="image/awal.png" width="800"/>
-<img src="image/kedua.png" width="800"/>
-<img src="image/ketiga.png" width="800"/>
+<img src="image/awal.jpng" width="800"/>
+<img src="image/kedua.jpng" width="800"/>
+<img src="image/ketiga.jpng" width="800"/>
 
